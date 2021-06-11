@@ -1,0 +1,7 @@
+D:\work\source\repos\ExploreDb\bin\Debug\ExploreDb.exe.config
+D:\work\source\repos\ExploreDb\bin\Debug\ExploreDb.exe
+D:\work\source\repos\ExploreDb\bin\Debug\ExploreDb.pdb
+D:\work\source\repos\ExploreDb\obj\Debug\ExploreDb.csprojAssemblyReference.cache
+D:\work\source\repos\ExploreDb\obj\Debug\ExploreDb.csproj.CoreCompileInputs.cache
+D:\work\source\repos\ExploreDb\obj\Debug\ExploreDb.exe
+D:\work\source\repos\ExploreDb\obj\Debug\ExploreDb.pdb
